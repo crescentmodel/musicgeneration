@@ -1,2 +1,2 @@
-# musicgeneration
-This is my personal project in IBMYP5. This repository is all about creating music automatically using Deep Learning and WaveNet Architecture. 
+# sturdy-spoon
+This is my personal project which I had to do in 10th grade. This project is about generating music using Deep Learning and Wave-Net Architecture. 
